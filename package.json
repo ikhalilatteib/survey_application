@@ -16,6 +16,7 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
+        "serverless-mysql": "^1.5.4",
         "vuex": "^4.0.2"
     }
 }
